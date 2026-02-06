@@ -1,0 +1,13 @@
+{
+  "appId": "",
+  "appDisplayName": "Nordica Growth Hub",
+  "description": null,
+  "environmentId": "c1919e9e-f7d1-efa7-9f5b-b0e9992dc2e9",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "logoPath": "Default",
+  "localAppUrl": "http://localhost:3000/",
+  "region": "prod",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
